@@ -27,3 +27,4 @@ document.addEventListener('keydown', function (e) {
     closeModal();
   }
 });
+// new function is added . given a task to a keyboard to close our window
